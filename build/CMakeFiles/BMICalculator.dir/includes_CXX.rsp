@@ -1,0 +1,1 @@
+-IC:/Users/makar/OneDrive/Desktop/Bmi/build/BMICalculator_autogen/include -IC:/Users/makar/OneDrive/Desktop/Bmi/src -isystem C:/Qt/6.10.0/mingw_64/include/QtCore -isystem C:/Qt/6.10.0/mingw_64/include -isystem "C:/Qt/6.10.0/mingw_64/mkspecs/win32-g++" -isystem C:/Qt/6.10.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.10.0/mingw_64/include/QtGui

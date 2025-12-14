@@ -1,0 +1,5 @@
+C:/Users/makar/OneDrive/Desktop/Bmi/build/CMakeFiles/BMICalculator.dir
+C:/Users/makar/OneDrive/Desktop/Bmi/build/CMakeFiles/edit_cache.dir
+C:/Users/makar/OneDrive/Desktop/Bmi/build/CMakeFiles/rebuild_cache.dir
+C:/Users/makar/OneDrive/Desktop/Bmi/build/CMakeFiles/BMICalculator_autogen_timestamp_deps.dir
+C:/Users/makar/OneDrive/Desktop/Bmi/build/CMakeFiles/BMICalculator_autogen.dir
